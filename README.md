@@ -1,6 +1,6 @@
 # WinFilter
 
-This executable is intended to modify search a number of search settings across multiple browsers. Right now it has limited capability but can be expanded to accomodate more settings.
+This executable is intended to modify search a number of search settings across multiple browsers to reduce explicit content. Right now it has limited capability but can be expanded to accomodate more settings.
 
 
 
