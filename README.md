@@ -6,7 +6,7 @@ This executable is intended to modify search a number of search settings across 
 
 # To Use:
 
--Click through the WinFilter.exe application </br>
+-Click the WinFilter.exe application file above </br>
 -Click "Download" or "View Raw" to download the file </br>
 -Under the location it is downloaded, right-click the "WinFilter.exe" file and "Run as Administrator" </br>
 -You will get a security prompt asking you if it is ok to run, click "Ok" </br>
